@@ -1,0 +1,29 @@
+.example-container {
+    position: absolute;
+    top: 60px;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    overflow-y: scroll;
+}
+
+
+.example-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 1rem;
+    justify-content: center;
+}
+
+.mat-drawer-content.mat-sidenav-content{
+    min-width: 150px;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+
+}

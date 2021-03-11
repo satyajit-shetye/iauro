@@ -1,0 +1,25 @@
+
+.form-element {
+  width: 100%;
+}
+
+form {
+    padding: 20px;
+    max-width: 500px;
+    background-color:#fff;
+    border: 1px solid aliceblue;
+}
+
+.full-width{
+    width: 100%;
+}
+
+.example-radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}
+
+.example-radio-button {
+  margin: 5px;
+}
